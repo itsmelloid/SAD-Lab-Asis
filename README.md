@@ -29,11 +29,7 @@ HTML, CSS, JavaScript (no framework) · **Database: Supabase (PostgreSQL)** · G
 | email | text | required |
 | created_at | timestamptz | default now() |
 
-## Deployment (GitHub Pages)
-Push to a repo named `SAD-Lab-Lastname` → **Settings → Pages → Deploy from branch → main / root**.
-Live URL: `https://<username>.github.io/SAD-Lab-Lastname/`
 
-> The anon key is designed to be public, but the lab's open Row Level Security policies mean anyone with the link can edit data. Fine for a lab; not for production.
 
 ## Developer
 John Lloyd Asis — 3B / BSIT
