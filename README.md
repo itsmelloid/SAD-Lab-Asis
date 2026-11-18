@@ -1,4 +1,4 @@
-# SAD-Lab-Lastname — Student Record Management System
+# SAD-Lab-Asis — Student Record Management System
 
 A simple CRUD web app for managing student records. Built for the Systems Analysis and Design 3-hour laboratory.
 
