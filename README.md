@@ -36,4 +36,4 @@ Live URL: `https://<username>.github.io/SAD-Lab-Lastname/`
 > The anon key is designed to be public, but the lab's open Row Level Security policies mean anyone with the link can edit data. Fine for a lab; not for production.
 
 ## Developer
-Your Name — Section / Course
+John Lloyd Asis — 3B / BSIT
