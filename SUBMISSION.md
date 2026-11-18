@@ -1,6 +1,6 @@
 # Required Submission Checklist
 
-1. GitHub Repository Link: https://github.com/<username>/SAD-Lab-Lastname
+1. GitHub Repository Link: https://github.com/<username>/SAD-Lab-Asis
 2. Deployed System Link: https://<username>.github.io/SAD-Lab-Lastname/
 3. Screenshot of the working system: (attach)
 4. Screenshot of Supabase Table Editor showing ≥ 5 records: (attach)
